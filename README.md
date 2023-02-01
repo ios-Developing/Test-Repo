@@ -29,6 +29,8 @@ Git instruction
 
 Опять редактируем код, создавая 2 commit...
 
+Следующий заход, 3 commit
+
 
 #Инициализация git
     git init 
