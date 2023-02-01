@@ -25,7 +25,7 @@ Git instruction
  2. Второй
  3. Второй 
 
-
+Новые изменения в ветке Lists
 
 #Инициализация git
     git init 
